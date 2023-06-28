@@ -32,7 +32,7 @@ try:
       # streamlit.write('The user entered ', fruit_choice)
 
 except :
-       streamlit.error("Please select a fruit")
+       streamlit.error("Please select a fruit to get Information")
 
 
 
